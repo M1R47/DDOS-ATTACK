@@ -6,8 +6,16 @@ LOCAL
 
 💻 INSTALACIÓN💻
 
-pkg update
-Pkg upgrade
+pkg update -y
+
+Pkg upgrade -y
+
 pkg install git -y
-git clone 
-cd 
+
+git clone https://github.com/M1R47-T3RMUX/DDOS-ATTACK
+
+cd DDOS-ATTACK
+
+bash instalador.sh
+
+No me ago responsable del mal usó que le den al scrip
